@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./img/files.png" alt="Clock" width="20%"/>
+<img src="./img/file.png" alt="File" width="20%"/>
 </p>
 
 # File Metadata Microservice
